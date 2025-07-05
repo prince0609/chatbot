@@ -1,4 +1,4 @@
-echo "# 🤖 ChatGPT Bot App
+# 🤖 ChatGPT Bot App
 
 A chatbot using Node.js, Express, Bootstrap, and OpenRouter API to demonstrate how to integrate LLM API.
 
